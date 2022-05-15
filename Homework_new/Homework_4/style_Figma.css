@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.header-box {
+    position: absolute;
+    width: 2011px;
+    height: 84px;
+    left: 0px;
+    top: 0px;
+    background: #007765;
+}
+
+.logo_box {
+    /* logo */
+
+    position: absolute;
+    width: 184px;
+    height: 45px;
+    left: 501px;
+    top: 20px;
+}
+
+.logo-small {
+    /* Vector */
+
+    position: absolute;
+    left: 0.02%;
+    right: 0%;
+    top: 0%;
+    bottom: -0.09%;
+}
+
+.logo-large {
+    /* Vector */
+
+    position: absolute;
+    left: 0%;
+    right: 75.55%;
+    top: 0%;
+    bottom: 0.09%;
+}
+
+.box_menu_1 {
+    /* the problem */
+
+    position: absolute;
+    width: 149px;
+    height: 29px;
+    left: 1189px;
+    top: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box_menu_2 {
+    /* PiedPiperCoin */
+
+    position: absolute;
+    width: 174px;
+    height: 29px;
+    left: 1339px;
+    top: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box_menu_3 {
+    /* the team */
+
+    position: absolute;
+    width: 95px;
+    height: 29px;
+    left: 1516px;
+    top: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.image_sky {
+    /* image */
+
+    position: absolute;
+    width: 2011px;
+    height: 403px;
+    left: 0px;
+    top: 84px;
+}
+
+.title {
+    /* PiperNet Is Here */
+
+    position: absolute;
+    width: 1219px;
+    height: 83px;
+    left: 396px;
+    top: 180px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box_content {
+    position: absolute;
+    width: 2011px;
+    height: 719px;
+    left: 0px;
+    top: 487px;
+    background: #EEEEEE;
+}
+
+.the_problem {
+    /* The Problem */
+
+    position: absolute;
+    width: 1107px;
+    height: 75px;
+    left: 451px;
+    top: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+}
+
+.content {
+    position: absolute;
+    width: 1110px;
+    height: 488px;
+    left: 451px;
+    top: 126px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.image_sky_blue {
+    /* image */
+
+    position: absolute;
+    width: 2011px;
+    height: 483px;
+    left: 0px;
+    top: 1206px;
+}
+
+.text_center {
+    position: absolute;
+    width: 893px;
+    height: 228px;
+    left: 559px;
+    top: 1354px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box_content_under {
+    /* PPC bg */
+
+    position: absolute;
+    width: 2011px;
+    height: 604px;
+    left: 0px;
+    top: 1689px;
+    background: #FFFFFF;
+}
+
+.introducing_piedPiperCoin {
+    /* Introducing PiedPiperCoin */
+
+    position: absolute;
+    width: 1110px;
+    height: 75px;
+    left: 451px;
+    top: 37px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+}
+
+.logo {
+    /* PPC Logo */
+
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 451px;
+    top: 128px;
+}
+
+.section_1 {
+    position: absolute;
+    width: 930px;
+    height: 110px;
+    left: 614px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.section_2 {
+    position: absolute;
+    width: 1110px;
+    height: 223px;
+    left: 451px;
+    top: 258px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.box_team {
+    /* bg */
+
+    position: absolute;
+    width: 2011px;
+    height: 845px;
+    left: 0px;
+    top: 2293px;
+    background: #EEEEEE;
+}
+
+.the_team {
+    /* The Team */
+
+    position: absolute;
+    width: 1110px;
+    height: 75px;
+    left: 451px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+}
+
+.team_fotos {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    margin-left: 350px;
+    margin-top: 150px;
+    justify-content: center;
+    row-gap: 170px;
+    /* column-gap: 90px; */
+}
+
+.name {
+    /* Richard Hendricks */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+
+.profession {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.footer {
+    position: absolute;
+    width: 2011px;
+    height: 176px;
+    left: 0px;
+    top: 3138px;
+    background: #333333;
+}
+
+.footer_text {
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    margin-top: 60px;
+    color: #FFFFFF;
+}
