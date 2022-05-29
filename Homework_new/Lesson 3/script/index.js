@@ -18,3 +18,8 @@ submit.addEventListener('click', () => {
     alert("Your message was successfully sent:\n" + data.name + "\n" + data.email + "\n" + data.message);
         
 });
+// Selecting the iframe element
+var iframe = document.getElementById("myIframe");
+// Adjusting the iframe height onload event
+iframe.onload = () =>{
+    iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';}
